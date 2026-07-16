@@ -159,7 +159,7 @@ Answer
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sachin-Nagenahalli/AI_Document_Question_Answering_API.git
 cd 01_Local_RAG_API
 ```
 
